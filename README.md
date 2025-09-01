@@ -1,0 +1,1 @@
+# -Implemented-an-algorithm-to-perform-multiplication-by-repeated-addition-using-Verilog-HDL.
